@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://adhyyan321:adhyyan321@devconnector.liwg9.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "test-use":"nothing much !!",
+    "jwtSecret":"my secret tocken"
+}
