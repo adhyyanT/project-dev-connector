@@ -34,7 +34,7 @@ router.post('/',[
         return res.status(400).json({ errors: errors.array() });
     }
 
-    const {email,password} =req.body;    // extract all 3 things from the body just 1 time.
+    const {email,password} =req.body;    // extract all 2 things from the body just 1 time.
 
     try{
 
