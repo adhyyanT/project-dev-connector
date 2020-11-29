@@ -1,5 +1,7 @@
 {
     "mongoURI":"mongodb+srv://adhyyan321:adhyyan321@devconnector.liwg9.mongodb.net/<dbname>?retryWrites=true&w=majority",
     "test-use":"nothing much !!",
-    "jwtSecret":"my secret tocken"
+    "jwtSecret":"my secret tocken",
+    "githubClientId":"1f6fe047d410f08f2c89",
+    "githubSecret":"d41049030759f7cb0668ce857fa443f7b7fe3b78"
 }
